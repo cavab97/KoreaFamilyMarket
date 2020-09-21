@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "b170305c",
     "public": "build",
     "ignore": [
       "firebase.json",
